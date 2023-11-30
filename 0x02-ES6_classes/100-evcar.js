@@ -1,4 +1,4 @@
-/* eslint-disable class-methods-use-this */
+/* eslint-disable */
 import Car from './10-car.js';
 
 export default class EVCar extends Car {
